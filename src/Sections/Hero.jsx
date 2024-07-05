@@ -13,7 +13,7 @@ const Hero = () => {
     >
       <div className="relative xl:w-2/5 flex flex-col justify-center items-start w-full max-xl:padding-x pt-28">
 
-      <p className="text-xl mt-32 font-montserrat text-coral-red">
+      <p className="text-xl max-lg:mt-32 font-montserrat text-coral-red">
         Our summer collection
       </p>
       <h1 className="mt-10 font-palanquin text-8xl max-sm:[72px] max-sm:leading-[82px] font-bold">
